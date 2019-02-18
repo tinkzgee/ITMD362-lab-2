@@ -46,3 +46,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/* End of Eric Meyer css reset */
+
+@font-face {
+	font-family: 'Carrois Gothic SC', sans-serif;
+}
+
