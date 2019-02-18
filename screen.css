@@ -53,3 +53,16 @@ table {
 	font-family: 'Carrois Gothic SC', sans-serif;
 }
 
+h1 {
+	font-size: 1.5em;
+	padding-bottom: .99em;
+}
+
+body {
+	font-family: 'Carrois Gothic SC', sans-serif;
+	text-align: center;
+	padding-left: 5em;
+	padding-right: 5em;
+	padding-top: 3em;
+	
+}
