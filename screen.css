@@ -66,3 +66,12 @@ body {
 	padding-top: 3em;
 	
 }
+
+p {
+	padding-top: .60em;
+	padding-bottom: .60em;
+}
+
+form{
+	background-color: #FF69B4;
+}
