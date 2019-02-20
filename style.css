@@ -1,42 +1,34 @@
 @font-face {
-	font-family: 'Carrois Gothic SC', sans-serif;
+  font-family: 'Carrois Gothic SC', sans-serif;
 }
-
 h1 {
-	text-align: center;
-	font-size: 1.5em;
-	padding-bottom: 5px;
+  text-align: center;
+  font-size: 1.5em;
+  padding-bottom: 5px;
 }
-
 label {
-    display: inline;
+  display: inline;
 }
-
 body {
-	font-family: 'Carrois Gothic SC', sans-serif;
-	text-align: left;
-	padding-left: 5em;
-	padding-right: 5em;
-	padding-top: 3em;
-	
+  font-family: 'Carrois Gothic SC', sans-serif;
+  text-align: left;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 3em;
 }
-
 p {
-	padding-left: .25em;
-	padding-right: .25em;
-	padding-top: 10px;
-	padding-bottom: 25px;
+  padding-left: .25em;
+  padding-right: .25em;
+  padding-top: 10px;
+  padding-bottom: 25px;
 }
-
 legend {
-	padding-top: 15px;
-	padding-bottom: 25px;
+  padding-top: 15px;
+  padding-bottom: 25px;
 }
-
-form{
-	background-color: #FF69B4;
+form {
+  background-color: #FF69B4;
 }
-
 fieldset {
   padding: 25px;
   padding-left: .25em;
@@ -45,15 +37,12 @@ fieldset {
   border: 2px solid black;
   border-color: black;
 }
-
-
-
 @media screen and (max-width: 960px) {
-
-    text-align: right;
-    width: 100%;
-
-     fieldset {
-     border: 2px groove;
-    }
+  body {
+    font-size: 0.833em;
+    line-height: 1em;
   }
+  fieldset {
+    border: 2px groove;
+  }
+}
