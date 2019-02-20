@@ -37,4 +37,8 @@ form{
 
     text-align: right;
     width: 100%;
+
+     fieldset {
+     border: 2px groove;
+    }
   }
