@@ -3,8 +3,9 @@
 }
 h1 {
   text-align: center;
-  font-size: 1.5em;
-  padding-bottom: 5px;
+  font-size: 1.6em;
+  padding-bottom: 8px;
+  font-weight: bold;  
 }
 label {
   display: inline;
@@ -21,10 +22,12 @@ p {
   padding-right: .25em;
   padding-top: 10px;
   padding-bottom: 25px;
+  font-size: 1.1em;
 }
 legend {
-  padding-top: 15px;
-  padding-bottom: 25px;
+  padding: 2px;
+  border: 2px solid;
+  font-size: 1.3em;
 }
 form {
   background-color: #FF69B4;
@@ -41,8 +44,11 @@ fieldset {
   body {
     font-size: 0.833em;
     line-height: 1em;
+
   }
-  fieldset {
-    border: 2px groove;
-  }
+
+  form {
+  background-color: #A9A9A9;
+}
+
 }
